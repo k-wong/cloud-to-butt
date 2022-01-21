@@ -13,6 +13,9 @@
 	],
 	"host_permissions": [
   		"*://*/*"
+	],
+	"permissions": [
+		"activeTab"
 	]
 }
 
