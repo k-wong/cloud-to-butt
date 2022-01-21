@@ -1,6 +1,8 @@
 'NFT' to 'silly jpg'
 =============
 
+![](logo.png)
+
 Chrome extension that replaces all occurrences of 'NFT' with 'silly jpg'.
 
 Forked from PanicSteve's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt/)
