@@ -1,6 +1,6 @@
 {
 	"manifest_version": 3,
-	"name": "NFT to silly jpg",
+	"name": "NFT to silly jpeg",
 	"version": "1.0",
 	"description": "Replaces the text 'NFT' with 'silly jpg'.",
 	"content_scripts": 
