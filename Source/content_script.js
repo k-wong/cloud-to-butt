@@ -39,8 +39,16 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	v = v.replace(/\bNFT\b/g, "silly jpg");
-	v = v.replace(/\bnft\b/g, "silly jpg");
+	
+	v = v.replace(/\ban nft\b/g, "a silly jpeg");
+	v = v.replace(/\ban NFT\b/g, "a silly jpeg");
+	v = v.replace(/\bNFT\b/g, "silly jpeg");
+	v = v.replace(/\bnft\b/g, "silly jpeg");
+	v = v.replace(/\bNFTs\b/g, "silly jpegs");
+	v = v.replace(/\bNon-fungible token\b/g, "Silly jpeg");
+	v = v.replace(/\bNon-fungible tokens\b/g, "Silly jpegs");
+	v = v.replace(/\bnon-fungible token\b/g, "silly jpeg");
+	v = v.replace(/\bNon-Fungible Tokens\b/g, "Silly Jpegs");
 	
 	textNode.nodeValue = v;
 }
