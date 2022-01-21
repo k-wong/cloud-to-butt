@@ -39,9 +39,6 @@ function handleText(textNode)
 {
 	var v = textNode.nodeValue;
 
-	
-	v = v.replace(/\ban nft\b/g, "a silly jpeg");
-	v = v.replace(/\ban NFT\b/g, "a silly jpeg");
 	v = v.replace(/\bNFT\b/g, "silly jpeg");
 	v = v.replace(/\bnft\b/g, "silly jpeg");
 	v = v.replace(/\bNFTs\b/g, "silly jpegs");
