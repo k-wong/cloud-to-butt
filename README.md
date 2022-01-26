@@ -11,4 +11,4 @@ Forked from PanicSteve's [cloud-to-butt](https://github.com/panicsteve/cloud-to-
 Installation
 ------------
 
-Chrome Web Store: 
+[Chrome Web Store](https://chrome.google.com/webstore/detail/nft-to-silly-jpeg/hcajgiblhhpbgbmlgioljefhmoolebjn)
