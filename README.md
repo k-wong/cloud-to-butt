@@ -1,7 +1,7 @@
 'NFT' to 'silly jpeg'
 =============
 
-![](logo.jpg)
+![](screen.png)
 
 Chrome extension that replaces all occurrences of 'NFT' with 'silly jpeg'.
 

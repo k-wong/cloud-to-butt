@@ -2,7 +2,7 @@
 	"manifest_version": 3,
 	"name": "NFT to silly jpeg",
 	"version": "1.0",
-	"description": "Replaces the text 'NFT' with 'silly jpg'.",
+	"description": "Replaces the text 'NFT' with 'silly jpeg'.",
 	"content_scripts": 
 	[
 		{
@@ -15,7 +15,7 @@
   		"*://*/*"
 	],
 	"permissions": [
-		"activeTab"
+
 	]
 }
 
